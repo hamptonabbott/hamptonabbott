@@ -16,9 +16,10 @@ Sports Analytics @ UNC Charlotte (B.S., May 2027) · 4.0 GPA · prior BSBA, Mark
 
 ## Toolbox
 
-Python · SQL · Java · pandas · NumPy · scikit-learn · XGBoost · Streamlit · Tableau · nflverse · Git
+- **Languages** — Python · SQL · Java
+- **Data & ML** — pandas · NumPy · scikit-learn · XGBoost · matplotlib · seaborn
+- **Tools** — Tableau · Streamlit · Jupyter · Git · Excel
 
 ## Currently
 
-- Writing about sports analytics and data ethics at [hamptonabbott.com/blog](https://hamptonabbott.com/blog)
-- Open to data / business / sports analyst roles — Charlotte or remote
+Open to data, business, and sports analyst roles — Charlotte or remote. Graduating May 2027.
